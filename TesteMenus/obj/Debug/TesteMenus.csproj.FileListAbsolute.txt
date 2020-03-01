@@ -1,0 +1,10 @@
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\bin\Debug\TesteMenus.exe.config
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\bin\Debug\TesteMenus.exe
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\bin\Debug\TesteMenus.pdb
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\obj\Debug\TesteMenus.csprojAssemblyReference.cache
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\obj\Debug\TesteMenus.Form1.resources
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\obj\Debug\TesteMenus.Properties.Resources.resources
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\obj\Debug\TesteMenus.csproj.GenerateResource.cache
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\obj\Debug\TesteMenus.csproj.CoreCompileInputs.cache
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\obj\Debug\TesteMenus.exe
+C:\Users\Robson\source\repos\TesteMenus\TesteMenus\obj\Debug\TesteMenus.pdb
